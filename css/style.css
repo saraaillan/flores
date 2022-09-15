@@ -1,0 +1,23 @@
+.titulos{
+	display: inline-block;
+	color:#000080;
+    font-family; Arial;
+	text-decoration: none;
+    
+}
+.tituloprincipal{
+		color:#000080;
+		text-align: center;
+	    font-family; Arial;
+}
+body{
+	 background-color: #9EB0DA;
+	 font-family; Arial;
+	 text-align: justify;
+	 
+}
+
+.narracion{
+	color:#000080;
+    font-family; Arial;
+}
